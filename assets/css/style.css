@@ -21,3 +21,9 @@ canvas {
   border-radius: 10px;
   box-shadow: 0 0 10px green;
 }
+
+.title {
+  display: flex;
+  align-items: center;
+  color: rgb(44, 179, 44);
+}
