@@ -76,4 +76,4 @@ function createGame() {
 
 document.addEventListener("keydown", handleKeydown);
 
-let gameInit = setInterval(createGame, 100);
+let gameInit = setInterval(createGame, 10);
